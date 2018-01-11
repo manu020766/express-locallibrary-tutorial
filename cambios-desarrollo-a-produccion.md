@@ -1,5 +1,5 @@
-#Cambios que se realizan para hacer el deploy en Heroku
-##package.json
+# Cambios que se realizan para hacer el deploy en Heroku
+## package.json
 Se le añade la versión de node
 
   "name": "express-locallibrary-tutorial",
